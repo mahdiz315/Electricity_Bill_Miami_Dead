@@ -1,5 +1,0 @@
-streamlit
-pdfplumber
-altair
-xlsxwriter
- openpyxl
