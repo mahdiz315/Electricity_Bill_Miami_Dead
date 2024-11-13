@@ -6,4 +6,4 @@ openly
 pandas 
 numpy
 matplotlib
-pillow==9.2.0
+pillow==9.0.1
