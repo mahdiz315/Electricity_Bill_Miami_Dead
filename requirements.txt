@@ -3,8 +3,6 @@ pdfplumber
 altair
 xlsxwriter
 openly
-panda 
+pandas 
 numpy
-datetime
-time
 matplotlib
