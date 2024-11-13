@@ -4,3 +4,5 @@ altair
 xlsxwriter
 openly
 matplotlib
+pillow==9.0.1
+
