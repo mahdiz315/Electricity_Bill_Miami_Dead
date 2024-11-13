@@ -3,7 +3,4 @@ pdfplumber
 altair
 xlsxwriter
 openly
-pandas 
-numpy
 matplotlib
-pillow==9.0.1
